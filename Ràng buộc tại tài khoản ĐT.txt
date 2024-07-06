@@ -1,0 +1,2 @@
+- Có 2 mục duy nhất trong cơ sở dữ liệu: username và email
+- Số điện thoại tối đa 12 số bắt đầu từ 0 hoặc 84

@@ -1,0 +1,9 @@
+- Có 4 cái không được chùng trong cơ sở dữ liệu : mã số sinh viên, username, email, số điện thoại
+- Lớp chỉ được chọn trong những lớp
+N20DCAT1
+N21CNTT1
+N21DCAT1
+N21DCAT2
+N21DCKT
+N21DPT1
+- Số điện thoại tối đa 12 số bắt đầu từ 0 hoặc 84, username phải giống mã số sinh viên. Email phải đúng định dạng có @ và trước và sau @ phải có chữ
