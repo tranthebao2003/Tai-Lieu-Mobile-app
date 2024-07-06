@@ -1,0 +1,19 @@
+Admin
+tài khoản :admin
+mật khẩu: 12345678Zz
+role id : 1
+
+Student
+tài khoản: N21DCAT1001
+mật khẩu: 12345678Zz
+role id : 2
+
+class cabinet
+tài khoản: N21DCAT1006
+mật khẩu: N21DCAT1006aZ
+role id : 3
+
+university_union
+tài khoản: doantruong01
+mật khẩu: doantruong01Zz
+role_id : 4
